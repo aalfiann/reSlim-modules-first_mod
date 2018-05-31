@@ -13,5 +13,5 @@
 
 ### How to Integrate this module into reSlim with Packager?
 
-1. Make ajax request to >>
+1. Make AJAX GET request to >>
     http://**{yourdomain.com}**/api/packager/install/zip/safely/**{yourusername}**/**{yourtoken}**/?lang=en&source=**{zip archive source}**&namespace=**{modul namespace}**
