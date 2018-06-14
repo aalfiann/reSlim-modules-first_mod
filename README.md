@@ -15,3 +15,8 @@
 
 1. Make AJAX GET request to >>
     http://**{yourdomain.com}**/api/packager/install/zip/safely/**{yourusername}**/**{yourtoken}**/?lang=en&source=**{zip archive source}**&namespace=**{modul namespace}**
+
+### Want to learn other modules?
+
+We have several modules for you to learn.  
+Just visit >> [reSlim modules](https://github.com/aalfiann/reslim-modules)
